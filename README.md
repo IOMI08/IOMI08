@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @IOMI08
+- 👀 I’m interested in Open Source and Linux
+- 🌱 I’m currently studying at scientific school in Italy
+- 📫 How to reach me: informaticando@mail.com
+- 😄 Pronouns: He
+- ⚡ Now I'm developing a Linux Distro
